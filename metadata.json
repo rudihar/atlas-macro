@@ -1,0 +1,8 @@
+{
+  "name": "Atlas Macro",
+  "description": "Global economic indicators explorer fetching live macroeconomic, fiscal, trade, monetary, and demographic data for every country from the World Bank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
